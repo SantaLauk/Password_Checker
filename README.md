@@ -47,7 +47,7 @@ pip install requests
 
 4. Run the script:
 
-python password_checker.py
+python Password_Checker.py
 
 5. Enter a password when prompted.
 
